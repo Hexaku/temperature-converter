@@ -4,7 +4,7 @@ This a dynamic temperature converter, you can convert any value in 3 differents 
 
 I build this with Vanilla JS and pure CSS for the front. 
 
-To try the converter : https://akuserukid.github.io/temperature-converter/
+To try the converter : https://hexaku.github.io/temperature-converter/
 
 Enjoy !
 
